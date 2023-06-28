@@ -1,0 +1,29 @@
+﻿body {
+
+}
+
+.preview {
+    background: #facb00;
+    width: 200px;
+    font-family: Serif;
+}
+
+.previewsecondLevel {
+    margin-bottom: 20px;
+}
+
+.preview2 {
+    background: #49b689;
+    width: 350px;
+    border-radius: 5px;
+    padding: 20px;
+    font-family: Arial;
+    font-weight: bold;
+}
+
+p {
+    color: #ffffff;
+}
+
+.preview2secondLevel {
+}

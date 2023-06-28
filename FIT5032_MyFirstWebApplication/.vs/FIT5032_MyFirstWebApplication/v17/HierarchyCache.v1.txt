@@ -1,0 +1,240 @@
+﻿++解决方案“FIT5032_MyFirstWebApplication”‎(2 个项目，共 2 个)
+i:{00000000-0000-0000-0000-000000000000}:FIT5032_MyFirstWebApplication.sln
+++FIT5032_MyFirstWebApplication
+i:{00000000-0000-0000-0000-000000000000}:FIT5032_MyFirstWebApplication
+i:{dc37ca28-5bf4-4b16-a7d4-3f94a945c9c1}:
+++Properties
+i:{8f707d63-e41c-4d49-9ad8-ab98147521bd}:d:\projects\visual studio\fit5032_myfirstwebapplication\properties\
+i:{dc37ca28-5bf4-4b16-a7d4-3f94a945c9c1}:d:\projects\visual studio\fit5032_myfirstwebapplication.tests\properties\
+++引用
+i:{8f707d63-e41c-4d49-9ad8-ab98147521bd}:
+i:{dc37ca28-5bf4-4b16-a7d4-3f94a945c9c1}:
+++App_Data
+i:{8f707d63-e41c-4d49-9ad8-ab98147521bd}:d:\projects\visual studio\fit5032_myfirstwebapplication\app_data\
+++App_Start
+i:{8f707d63-e41c-4d49-9ad8-ab98147521bd}:d:\projects\visual studio\fit5032_myfirstwebapplication\app_start\
+++Content
+i:{8f707d63-e41c-4d49-9ad8-ab98147521bd}:d:\projects\visual studio\fit5032_myfirstwebapplication\content\
+++bootstrap-theme.css
+i:{8f707d63-e41c-4d49-9ad8-ab98147521bd}:d:\projects\visual studio\fit5032_myfirstwebapplication\content\bootstrap-theme.css
+++bootstrap-theme.css.map
+i:{8f707d63-e41c-4d49-9ad8-ab98147521bd}:d:\projects\visual studio\fit5032_myfirstwebapplication\content\bootstrap-theme.css.map
+++bootstrap-theme.min.css
+i:{8f707d63-e41c-4d49-9ad8-ab98147521bd}:d:\projects\visual studio\fit5032_myfirstwebapplication\content\bootstrap-theme.min.css
+++bootstrap-theme.min.css.map
+i:{8f707d63-e41c-4d49-9ad8-ab98147521bd}:d:\projects\visual studio\fit5032_myfirstwebapplication\content\bootstrap-theme.min.css.map
+++bootstrap.css
+i:{8f707d63-e41c-4d49-9ad8-ab98147521bd}:d:\projects\visual studio\fit5032_myfirstwebapplication\content\bootstrap.css
+++bootstrap.css.map
+i:{8f707d63-e41c-4d49-9ad8-ab98147521bd}:d:\projects\visual studio\fit5032_myfirstwebapplication\content\bootstrap.css.map
+++bootstrap.min.css
+i:{8f707d63-e41c-4d49-9ad8-ab98147521bd}:d:\projects\visual studio\fit5032_myfirstwebapplication\content\bootstrap.min.css
+++bootstrap.min.css.map
+i:{8f707d63-e41c-4d49-9ad8-ab98147521bd}:d:\projects\visual studio\fit5032_myfirstwebapplication\content\bootstrap.min.css.map
+++MyStyle.css
+i:{8f707d63-e41c-4d49-9ad8-ab98147521bd}:d:\projects\visual studio\fit5032_myfirstwebapplication\content\mystyle.css
+++Site.css
+i:{8f707d63-e41c-4d49-9ad8-ab98147521bd}:d:\projects\visual studio\fit5032_myfirstwebapplication\content\site.css
+++Controllers
+i:{8f707d63-e41c-4d49-9ad8-ab98147521bd}:d:\projects\visual studio\fit5032_myfirstwebapplication\controllers\
+i:{dc37ca28-5bf4-4b16-a7d4-3f94a945c9c1}:d:\projects\visual studio\fit5032_myfirstwebapplication.tests\controllers\
+++HomeController.cs
+i:{8f707d63-e41c-4d49-9ad8-ab98147521bd}:d:\projects\visual studio\fit5032_myfirstwebapplication\controllers\homecontroller.cs
+++fonts
+i:{8f707d63-e41c-4d49-9ad8-ab98147521bd}:d:\projects\visual studio\fit5032_myfirstwebapplication\fonts\
+++Models
+i:{8f707d63-e41c-4d49-9ad8-ab98147521bd}:d:\projects\visual studio\fit5032_myfirstwebapplication\models\
+++Scripts
+i:{8f707d63-e41c-4d49-9ad8-ab98147521bd}:d:\projects\visual studio\fit5032_myfirstwebapplication\scripts\
+++Views
+i:{8f707d63-e41c-4d49-9ad8-ab98147521bd}:d:\projects\visual studio\fit5032_myfirstwebapplication\views\
+++Home
+i:{8f707d63-e41c-4d49-9ad8-ab98147521bd}:d:\projects\visual studio\fit5032_myfirstwebapplication\views\home\
+++About.cshtml
+i:{8f707d63-e41c-4d49-9ad8-ab98147521bd}:d:\projects\visual studio\fit5032_myfirstwebapplication\views\home\about.cshtml
+++Contact.cshtml
+i:{8f707d63-e41c-4d49-9ad8-ab98147521bd}:d:\projects\visual studio\fit5032_myfirstwebapplication\views\home\contact.cshtml
+++Index.cshtml
+i:{8f707d63-e41c-4d49-9ad8-ab98147521bd}:d:\projects\visual studio\fit5032_myfirstwebapplication\views\home\index.cshtml
+++MyView.cshtml
+i:{8f707d63-e41c-4d49-9ad8-ab98147521bd}:d:\projects\visual studio\fit5032_myfirstwebapplication\views\home\myview.cshtml
+++Shared
+i:{8f707d63-e41c-4d49-9ad8-ab98147521bd}:d:\projects\visual studio\fit5032_myfirstwebapplication\views\shared\
+++_Layout.cshtml
+i:{8f707d63-e41c-4d49-9ad8-ab98147521bd}:d:\projects\visual studio\fit5032_myfirstwebapplication\views\shared\_layout.cshtml
+++Error.cshtml
+i:{8f707d63-e41c-4d49-9ad8-ab98147521bd}:d:\projects\visual studio\fit5032_myfirstwebapplication\views\shared\error.cshtml
+++_ViewStart.cshtml
+i:{8f707d63-e41c-4d49-9ad8-ab98147521bd}:d:\projects\visual studio\fit5032_myfirstwebapplication\views\_viewstart.cshtml
+++Web.config
+i:{8f707d63-e41c-4d49-9ad8-ab98147521bd}:d:\projects\visual studio\fit5032_myfirstwebapplication\views\web.config
+i:{8f707d63-e41c-4d49-9ad8-ab98147521bd}:d:\projects\visual studio\fit5032_myfirstwebapplication\web.config
+++favicon.ico
+i:{8f707d63-e41c-4d49-9ad8-ab98147521bd}:d:\projects\visual studio\fit5032_myfirstwebapplication\favicon.ico
+++Global.asax
+i:{8f707d63-e41c-4d49-9ad8-ab98147521bd}:d:\projects\visual studio\fit5032_myfirstwebapplication\global.asax
+++packages.config
+i:{8f707d63-e41c-4d49-9ad8-ab98147521bd}:d:\projects\visual studio\fit5032_myfirstwebapplication\packages.config
+i:{dc37ca28-5bf4-4b16-a7d4-3f94a945c9c1}:d:\projects\visual studio\fit5032_myfirstwebapplication.tests\packages.config
+++AssemblyInfo.cs
+i:{8f707d63-e41c-4d49-9ad8-ab98147521bd}:d:\projects\visual studio\fit5032_myfirstwebapplication\properties\assemblyinfo.cs
+i:{dc37ca28-5bf4-4b16-a7d4-3f94a945c9c1}:d:\projects\visual studio\fit5032_myfirstwebapplication.tests\properties\assemblyinfo.cs
+++Antlr3.Runtime
+i:{8f707d63-e41c-4d49-9ad8-ab98147521bd}:
+++Microsoft.CodeDom.Providers.DotNetCompilerPlatform
+i:{8f707d63-e41c-4d49-9ad8-ab98147521bd}:
+++Microsoft.CSharp
+i:{8f707d63-e41c-4d49-9ad8-ab98147521bd}:
+i:{dc37ca28-5bf4-4b16-a7d4-3f94a945c9c1}:
+++Microsoft.Web.Infrastructure
+i:{8f707d63-e41c-4d49-9ad8-ab98147521bd}:
+i:{dc37ca28-5bf4-4b16-a7d4-3f94a945c9c1}:
+++Newtonsoft.Json
+i:{8f707d63-e41c-4d49-9ad8-ab98147521bd}:
+i:{dc37ca28-5bf4-4b16-a7d4-3f94a945c9c1}:
+++System
+i:{8f707d63-e41c-4d49-9ad8-ab98147521bd}:
+i:{dc37ca28-5bf4-4b16-a7d4-3f94a945c9c1}:
+++System.ComponentModel.DataAnnotations
+i:{8f707d63-e41c-4d49-9ad8-ab98147521bd}:
+i:{dc37ca28-5bf4-4b16-a7d4-3f94a945c9c1}:
+++System.Configuration
+i:{8f707d63-e41c-4d49-9ad8-ab98147521bd}:
+i:{dc37ca28-5bf4-4b16-a7d4-3f94a945c9c1}:
+++System.Core
+i:{8f707d63-e41c-4d49-9ad8-ab98147521bd}:
+i:{dc37ca28-5bf4-4b16-a7d4-3f94a945c9c1}:
+++System.Data
+i:{8f707d63-e41c-4d49-9ad8-ab98147521bd}:
+i:{dc37ca28-5bf4-4b16-a7d4-3f94a945c9c1}:
+++System.Data.DataSetExtensions
+i:{8f707d63-e41c-4d49-9ad8-ab98147521bd}:
+++System.Drawing
+i:{8f707d63-e41c-4d49-9ad8-ab98147521bd}:
+++System.EnterpriseServices
+i:{8f707d63-e41c-4d49-9ad8-ab98147521bd}:
+++System.Net.Http
+i:{8f707d63-e41c-4d49-9ad8-ab98147521bd}:
+i:{dc37ca28-5bf4-4b16-a7d4-3f94a945c9c1}:
+++System.Net.Http.Formatting
+i:{8f707d63-e41c-4d49-9ad8-ab98147521bd}:
+++System.Net.Http.WebRequest
+i:{8f707d63-e41c-4d49-9ad8-ab98147521bd}:
+i:{dc37ca28-5bf4-4b16-a7d4-3f94a945c9c1}:
+++System.Web
+i:{8f707d63-e41c-4d49-9ad8-ab98147521bd}:
+i:{dc37ca28-5bf4-4b16-a7d4-3f94a945c9c1}:
+++System.Web.Abstractions
+i:{8f707d63-e41c-4d49-9ad8-ab98147521bd}:
+i:{dc37ca28-5bf4-4b16-a7d4-3f94a945c9c1}:
+++System.Web.ApplicationServices
+i:{8f707d63-e41c-4d49-9ad8-ab98147521bd}:
+i:{dc37ca28-5bf4-4b16-a7d4-3f94a945c9c1}:
+++System.Web.DynamicData
+i:{8f707d63-e41c-4d49-9ad8-ab98147521bd}:
+++System.Web.Entity
+i:{8f707d63-e41c-4d49-9ad8-ab98147521bd}:
+++System.Web.Extensions
+i:{8f707d63-e41c-4d49-9ad8-ab98147521bd}:
+i:{dc37ca28-5bf4-4b16-a7d4-3f94a945c9c1}:
+++System.Web.Helpers
+i:{8f707d63-e41c-4d49-9ad8-ab98147521bd}:
+i:{dc37ca28-5bf4-4b16-a7d4-3f94a945c9c1}:
+++System.Web.Http
+i:{8f707d63-e41c-4d49-9ad8-ab98147521bd}:
+++System.Web.Http.WebHost
+i:{8f707d63-e41c-4d49-9ad8-ab98147521bd}:
+++System.Web.Mvc
+i:{8f707d63-e41c-4d49-9ad8-ab98147521bd}:
+i:{dc37ca28-5bf4-4b16-a7d4-3f94a945c9c1}:
+++System.Web.Optimization
+i:{8f707d63-e41c-4d49-9ad8-ab98147521bd}:
+++System.Web.Razor
+i:{8f707d63-e41c-4d49-9ad8-ab98147521bd}:
+i:{dc37ca28-5bf4-4b16-a7d4-3f94a945c9c1}:
+++System.Web.Routing
+i:{8f707d63-e41c-4d49-9ad8-ab98147521bd}:
+i:{dc37ca28-5bf4-4b16-a7d4-3f94a945c9c1}:
+++System.Web.Services
+i:{8f707d63-e41c-4d49-9ad8-ab98147521bd}:
+++System.Web.WebPages
+i:{8f707d63-e41c-4d49-9ad8-ab98147521bd}:
+i:{dc37ca28-5bf4-4b16-a7d4-3f94a945c9c1}:
+++System.Web.WebPages.Deployment
+i:{8f707d63-e41c-4d49-9ad8-ab98147521bd}:
+i:{dc37ca28-5bf4-4b16-a7d4-3f94a945c9c1}:
+++System.Web.WebPages.Razor
+i:{8f707d63-e41c-4d49-9ad8-ab98147521bd}:
+i:{dc37ca28-5bf4-4b16-a7d4-3f94a945c9c1}:
+++System.Xml
+i:{8f707d63-e41c-4d49-9ad8-ab98147521bd}:
+i:{dc37ca28-5bf4-4b16-a7d4-3f94a945c9c1}:
+++System.Xml.Linq
+i:{8f707d63-e41c-4d49-9ad8-ab98147521bd}:
+i:{dc37ca28-5bf4-4b16-a7d4-3f94a945c9c1}:
+++WebGrease
+i:{8f707d63-e41c-4d49-9ad8-ab98147521bd}:
+++BundleConfig.cs
+i:{8f707d63-e41c-4d49-9ad8-ab98147521bd}:d:\projects\visual studio\fit5032_myfirstwebapplication\app_start\bundleconfig.cs
+++FilterConfig.cs
+i:{8f707d63-e41c-4d49-9ad8-ab98147521bd}:d:\projects\visual studio\fit5032_myfirstwebapplication\app_start\filterconfig.cs
+++RouteConfig.cs
+i:{8f707d63-e41c-4d49-9ad8-ab98147521bd}:d:\projects\visual studio\fit5032_myfirstwebapplication\app_start\routeconfig.cs
+++WebApiConfig.cs
+i:{8f707d63-e41c-4d49-9ad8-ab98147521bd}:d:\projects\visual studio\fit5032_myfirstwebapplication\app_start\webapiconfig.cs
+++glyphicons-halflings-regular.eot
+i:{8f707d63-e41c-4d49-9ad8-ab98147521bd}:d:\projects\visual studio\fit5032_myfirstwebapplication\fonts\glyphicons-halflings-regular.eot
+++glyphicons-halflings-regular.svg
+i:{8f707d63-e41c-4d49-9ad8-ab98147521bd}:d:\projects\visual studio\fit5032_myfirstwebapplication\fonts\glyphicons-halflings-regular.svg
+++glyphicons-halflings-regular.ttf
+i:{8f707d63-e41c-4d49-9ad8-ab98147521bd}:d:\projects\visual studio\fit5032_myfirstwebapplication\fonts\glyphicons-halflings-regular.ttf
+++glyphicons-halflings-regular.woff
+i:{8f707d63-e41c-4d49-9ad8-ab98147521bd}:d:\projects\visual studio\fit5032_myfirstwebapplication\fonts\glyphicons-halflings-regular.woff
+++glyphicons-halflings-regular.woff2
+i:{8f707d63-e41c-4d49-9ad8-ab98147521bd}:d:\projects\visual studio\fit5032_myfirstwebapplication\fonts\glyphicons-halflings-regular.woff2
+++bootstrap.js
+i:{8f707d63-e41c-4d49-9ad8-ab98147521bd}:d:\projects\visual studio\fit5032_myfirstwebapplication\scripts\bootstrap.js
+++bootstrap.min.js
+i:{8f707d63-e41c-4d49-9ad8-ab98147521bd}:d:\projects\visual studio\fit5032_myfirstwebapplication\scripts\bootstrap.min.js
+++jquery-3.4.1.intellisense.js
+i:{8f707d63-e41c-4d49-9ad8-ab98147521bd}:d:\projects\visual studio\fit5032_myfirstwebapplication\scripts\jquery-3.4.1.intellisense.js
+++jquery-3.4.1.js
+i:{8f707d63-e41c-4d49-9ad8-ab98147521bd}:d:\projects\visual studio\fit5032_myfirstwebapplication\scripts\jquery-3.4.1.js
+++jquery-3.4.1.min.js
+i:{8f707d63-e41c-4d49-9ad8-ab98147521bd}:d:\projects\visual studio\fit5032_myfirstwebapplication\scripts\jquery-3.4.1.min.js
+++jquery-3.4.1.min.map
+i:{8f707d63-e41c-4d49-9ad8-ab98147521bd}:d:\projects\visual studio\fit5032_myfirstwebapplication\scripts\jquery-3.4.1.min.map
+++jquery-3.4.1.slim.js
+i:{8f707d63-e41c-4d49-9ad8-ab98147521bd}:d:\projects\visual studio\fit5032_myfirstwebapplication\scripts\jquery-3.4.1.slim.js
+++jquery-3.4.1.slim.min.js
+i:{8f707d63-e41c-4d49-9ad8-ab98147521bd}:d:\projects\visual studio\fit5032_myfirstwebapplication\scripts\jquery-3.4.1.slim.min.js
+++jquery-3.4.1.slim.min.map
+i:{8f707d63-e41c-4d49-9ad8-ab98147521bd}:d:\projects\visual studio\fit5032_myfirstwebapplication\scripts\jquery-3.4.1.slim.min.map
+++jquery.validate-vsdoc.js
+i:{8f707d63-e41c-4d49-9ad8-ab98147521bd}:d:\projects\visual studio\fit5032_myfirstwebapplication\scripts\jquery.validate-vsdoc.js
+++jquery.validate.js
+i:{8f707d63-e41c-4d49-9ad8-ab98147521bd}:d:\projects\visual studio\fit5032_myfirstwebapplication\scripts\jquery.validate.js
+++jquery.validate.min.js
+i:{8f707d63-e41c-4d49-9ad8-ab98147521bd}:d:\projects\visual studio\fit5032_myfirstwebapplication\scripts\jquery.validate.min.js
+++jquery.validate.unobtrusive.js
+i:{8f707d63-e41c-4d49-9ad8-ab98147521bd}:d:\projects\visual studio\fit5032_myfirstwebapplication\scripts\jquery.validate.unobtrusive.js
+++jquery.validate.unobtrusive.min.js
+i:{8f707d63-e41c-4d49-9ad8-ab98147521bd}:d:\projects\visual studio\fit5032_myfirstwebapplication\scripts\jquery.validate.unobtrusive.min.js
+++modernizr-2.8.3.js
+i:{8f707d63-e41c-4d49-9ad8-ab98147521bd}:d:\projects\visual studio\fit5032_myfirstwebapplication\scripts\modernizr-2.8.3.js
+++Global.asax.cs
+i:{8f707d63-e41c-4d49-9ad8-ab98147521bd}:d:\projects\visual studio\fit5032_myfirstwebapplication\global.asax.cs
+++Web.Debug.config
+i:{8f707d63-e41c-4d49-9ad8-ab98147521bd}:d:\projects\visual studio\fit5032_myfirstwebapplication\web.debug.config
+++Web.Release.config
+i:{8f707d63-e41c-4d49-9ad8-ab98147521bd}:d:\projects\visual studio\fit5032_myfirstwebapplication\web.release.config
+++FIT5032_MyFirstWebApplication.Tests
+i:{00000000-0000-0000-0000-000000000000}:FIT5032_MyFirstWebApplication.Tests
+++App.config
+i:{dc37ca28-5bf4-4b16-a7d4-3f94a945c9c1}:d:\projects\visual studio\fit5032_myfirstwebapplication.tests\app.config
+++Microsoft.VisualStudio.TestPlatform.TestFramework
+i:{dc37ca28-5bf4-4b16-a7d4-3f94a945c9c1}:
+++Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions
+i:{dc37ca28-5bf4-4b16-a7d4-3f94a945c9c1}:
+++HomeControllerTest.cs
+i:{dc37ca28-5bf4-4b16-a7d4-3f94a945c9c1}:d:\projects\visual studio\fit5032_myfirstwebapplication.tests\controllers\homecontrollertest.cs
